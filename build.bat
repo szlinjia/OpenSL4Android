@@ -1,0 +1,1 @@
+C:\adt\android-ndk-r10d\ndk-build.cmd TARGET_PLATFORM=android-21
